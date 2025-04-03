@@ -1,0 +1,9 @@
+pydantic
+langchain
+langchain-community
+cohere
+asyncio
+scikit-learn
+pywhatkit
+wikipedia
+pyjokes
